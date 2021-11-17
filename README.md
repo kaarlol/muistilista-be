@@ -6,4 +6,4 @@ Tämä projekti on erittäin kevyt backend-toteutus muistilista React-applikaati
 
 Kloonaa applikaatio tästä reposta ja aja projektikansiossa ensin käsky `yarn`, joka asentaa tarvittavat moduulit. Sen jälkeen `yarn start` käynnistää serverin lokaalisti osoitteessa http://localhost:8081.
 
-Applikaatio frontti löytyy omasta [repostaan](https://github.com/kaarlol/muistilista-fe).
+Applikaation frontti löytyy omasta [repostaan](https://github.com/kaarlol/muistilista-fe).
